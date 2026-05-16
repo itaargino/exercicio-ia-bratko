@@ -1,12 +1,12 @@
 # Segundo Trabalho de IA - Programação Lógica Indutiva (ILP)
 
-## 📁 Navegação
+## Navegação
 * **[Exercício 21.1](./Exercício%2021.1/HOWTO.md)**: Estudo prático e experimental sobre como a variação de exemplos positivos ($E^+$) e contraexemplos ($E^-$) afeta as restrições de busca, induzindo fenômenos como supergeneralização, superespecificidade (*overfitting*) e atalhos estruturais.
 * **[Exercício 21.2](./Exercício%2021.2/HOWTO.md)**: Resolução analítica com o mapeamento passo a passo dos refinamentos lógicos necessários (adições de literais e unificações) para construir um programa recursivo para o predicado `predecessor/2`.
 
 ---
 
-## 🛠️ Pré-requisitos Gerais
+## Pré-requisitos Gerais
 
 Para rodar qualquer um dos experimentos contidos nas pastas, você precisará ter instalado no seu sistema:
 
