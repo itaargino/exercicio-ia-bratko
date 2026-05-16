@@ -2,7 +2,7 @@
 
 Este repositório contém os experimentos práticos realizados com o algoritmo **MINIHYPER** para indução lógica do predicado `has_daughter/1`.
 
-## 🚀 Como Executar
+## Como Executar
 
 Para rodar os testes, abra o terminal na pasta do projeto, inicie o SWI-Prolog com o comando `swipl` e execute as instruções de acordo com o cenário desejado:
 
