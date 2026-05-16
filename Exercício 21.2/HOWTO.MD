@@ -1,8 +1,8 @@
-## 📝 Exercício 21.2 - Análise Analítica (Predecessor)
+## Exercício 21.2 - Análise Analítica (Predecessor)
 
 O objetivo deste exercício é calcular o número exato de passos de refinamento necessários para o algoritmo MINIHYPER construir a definição do predicado recursivo `predecessor/2` a partir da hipótese inicial vazia.
 
-### 🔍 Como os Passos de Refinamento são Calculados
+### Como os Passos de Refinamento são Calculados
 Cada passo de refinamento do MINIHYPER numa cláusula consiste estritamente em:
 1. **Adicionar um literal de background** (BK) ao corpo da regra.
 2. **Unificar duas variáveis** existentes na cláusula para criar as conexões lógicas.
@@ -25,7 +25,7 @@ Cada passo de refinamento do MINIHYPER numa cláusula consiste estritamente em:
 
 ---
 
-## 📊 Resultados do Exercício 21.2
+## Resultados do Exercício 21.2
 
 A tabela abaixo resume a contagem total de refinamentos exigida pelo interpretador:
 
